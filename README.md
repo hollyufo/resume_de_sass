@@ -43,4 +43,4 @@
 3.	Time management:
     - Goal setting.
     - Prioritizing.
-    -Focus.
+    - Focus.
